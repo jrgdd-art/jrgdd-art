@@ -38,8 +38,8 @@ Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor web apaixonado por criar ex
 - Twitter Empresa: [twitter.com/anoovyecreative](https://twitter.com/anoovyecreative)
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jorgeddsjnr&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeddsjnr&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jrgdd-art&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jrgdd-art&layout=compact&theme=radical)
 
 ---
 
